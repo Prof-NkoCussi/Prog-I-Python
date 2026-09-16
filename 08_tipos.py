@@ -1,3 +1,6 @@
+"""Escribí este programa y ejecútalo. Usa la función type(), que le pregunta a Python qué tipo de dato
+es algo."""
+
 # Detective de tipos de datos
 
 edad = 17
