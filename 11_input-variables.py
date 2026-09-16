@@ -3,6 +3,11 @@
 ¿Cuántos años tenés? 35
 Hola....., en 10 años vas a tener 45 años."""
 
+"""Usar dos variables con nombres claros.
+• Convertir la edad con int().
+• El mensaje final tiene que salir en una sola línea.
+• Comentar el programa arriba."""
+
 # Calcula la edad dentro de 10 años
  
 nombre = input("¿Cómo te llamás?:  ")
