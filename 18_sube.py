@@ -17,3 +17,8 @@ print("")
 print("Te alcanza para", viajes, "viajes.")
 print("Te sobran $", sobra)
 print("")
+
+#Por qué // y no /: 
+"""con / el resultado de 5000 dividido 700 sería 7.142857142857143. 
+No existen los 0,14 viajes en colectivo. // descarta la parte decimal y deja solo 
+los viajes enteros que se pueden hacer de verdad."""
